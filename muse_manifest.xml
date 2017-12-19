@@ -1,0 +1,41 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mipage.com" resolutions="1x" timestamp="1513724954596">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4280617804" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u353.php" crc="165369968" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="htmlcssjs.jpg" crc="3772796177" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u213-4.png" crc="4015982593" ref="index"/>
+    <file name="cam00846.jpg" crc="406886621" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-05-25-14-24-44-034.jpg" crc="3763156839" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u170-4.png" crc="88200023" ref="index"/>
+    <file name="monster energy monster wallpaper__yvt2.jpg" crc="3894521511" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="270375469" seo="true" mt="1513722046217" redirect="true"/>
+</manifest>
